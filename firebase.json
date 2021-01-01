@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "public",
+    "site" : "sah-drsarulrhaj",
+    "cleanUrls": true,
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
